@@ -1,3 +1,3 @@
 # learner
 
-My first committee
+My first commit
